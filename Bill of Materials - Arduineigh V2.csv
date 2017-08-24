@@ -17,7 +17,3 @@ Index,Quantity,Digi-Key Part Number,Description,Customer Reference
 14,2,S5600-ND,"CONN FEMALE 8POS .1"" SMD TIN","P2, P3"
 15,1,S1011EC-06-ND,"CONN FEMALE 6POS .1"" SMD TIN",P4
 ,,,,
-,,"To burn the bootloader, you need an Arduino to act as an ISP, or an ATMEL programmer",,
-,,,,
-,,"To program the board, you will need an USB to UART converter. This can be another Arduino-type board, or a",,
-,,module like the one found here:,https://www.digikey.com/product-detail/en/sparkfun-electronics/DEV-09716/1568-1103-ND/5318745,

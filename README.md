@@ -17,7 +17,9 @@ Well first of all you need to buy the tools and parts required to get this thing
     - They grab tiny parts, what more could you ask for?
 4. Flux "no-clean" Pen
     - Flux helps make the solder flow easily and nicely, soldering a 32-pin IC like the ATMega328 is a living hell without flux. If you do not get "no-clean" flux, you will have to get flux remover or rubbing alcohol to clean off the flux when finished. Flux can otherwise cause corrosion and nasty residues.
-5. Safety Glasses
+5. Solder Wick
+    - Wicks away any mistakes you may make. Be sure to not touch the wick itself during use, you will burn yourself.
+6. Safety Glasses
     - Solder and flux can sizzle and splatter, it's dangerous, protect your eyes!
 
 #### Parts For The Board

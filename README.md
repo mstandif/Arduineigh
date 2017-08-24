@@ -9,16 +9,16 @@ Well first of all you need to buy the tools and parts required to get this thing
 
 #### Necessary Tools
 1. Soldering Iron
-    -I'd recommend getting an iron with proper temperature control such as the Weller WLC100, Hakko FX888, or even some chinese knock-off like the 937D+. If the iron plugs directly into a wall outlet, don't buy it.
+    - I'd recommend getting an iron with proper temperature control such as the Weller WLC100, Hakko FX888, or even some chinese knock-off like the 937D+. If the iron plugs directly into a wall outlet, don't buy it.
 2. Solder
-    -Lead solder will be easier to use (lower melting temperature, less chance of splatter, better flow), however lead is toxic so lead-free is highly recommended. Also since this is surface mount stuff, thinner diameter solder is better.
-    -Pro tip: Pb is the chemical symbol for Lead, Sn is Tin, Ag is Silver, and Cu is Copper. Pay attention to the composition of you solder. Lead solder is usually 60% Sn and 40% Lead, lead-free is normally 99% Sn and the last 1% both Ag and Cu. Solder with high amounts of Ag is Jewelers solder, and solder with high amounts of Cu is welding solder; you do not want these.
+    - Lead solder will be easier to use (lower melting temperature, less chance of splatter, better flow), however lead is toxic so lead-free is highly recommended. Also since this is surface mount stuff, thinner diameter solder is better.
+    - Pro tip: Pb is the chemical symbol for Lead, Sn is Tin, Ag is Silver, and Cu is Copper. Pay attention to the composition of you solder. Lead solder is usually 60% Sn and 40% Lead, lead-free is normally 99% Sn and the last 1% both Ag and Cu. Solder with high amounts of Ag is Jewelers solder, and solder with high amounts of Cu is welding solder; you do not want these.
 3. SMD Tweezers
-    -They grab tiny parts, what more could you ask for?
+    - They grab tiny parts, what more could you ask for?
 4. Flux "no-clean" Pen
-    -Flux helps make the solder flow easily and nicely, soldering a 32-pin IC like the ATMega328 is a living hell without flux. If you do not get "no-clean" flux, you will have to get flux remover or rubbing alcohol to clean off the flux when finished. Flux can otherwise cause corrosion and nasty residues.
+    - Flux helps make the solder flow easily and nicely, soldering a 32-pin IC like the ATMega328 is a living hell without flux. If you do not get "no-clean" flux, you will have to get flux remover or rubbing alcohol to clean off the flux when finished. Flux can otherwise cause corrosion and nasty residues.
 5. Safety Glasses
-    -Solder and flux can sizzle and splatter, it's dangerous, protect your eyes!
+    - Solder and flux can sizzle and splatter, it's dangerous, protect your eyes!
 
 #### Parts For The Board
 See the Arduineigh Bill of Materials file for a list of all components for a fully assembled board. Part numbers for Digi-key are provided, but you can source them from wherever so long as they are the correct part. Some compnents like the LED's, female headers, and power regulators are not truely necessary if you only want the bare minimum. However to have full compatibility with arduino shields, and best user experience, you should purchase all required components.

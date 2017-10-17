@@ -3,6 +3,7 @@ The open pony-themed Arduino clone
 
 The following walk-through is intended for those new to the realm of making your own Arduino-type board. If this isn't your first rodeo, then you can ignore it and go straight to the fun stuff.
 
+
 ## Building Your Arduineigh
 #### So you bought the blank board... what now?
 Well first of all you need to buy the tools and parts required to get this thing up and running. If you are already an electronics hobbyist or enthusiast, you likely have most of it already. If you're new/new-ish here's what you need.
@@ -22,7 +23,7 @@ Well first of all you need to buy the tools and parts required to get this thing
 6. Safety Glasses
     - Solder and flux can sizzle and splatter, it's dangerous, protect your eyes!
 7. Multimeter (highly recommended)
-    - Great for debugging problems! Personally I use a Fluke meter ($200+) but almost any cheap meter will be sufficient for hobby needs.
+    - Great for debugging problems! Personally I use a Fluke meter ($300+) but almost any cheap meter will be sufficient for hobby needs.
     
 #### Parts For The Board
 See the Arduineigh Bill of Materials file for a list of all components for a fully assembled board. Part numbers for Digi-key are provided, but you can source them from wherever so long as they are the correct part. Some compnents like the LED's, female headers, and power regulators are not truely necessary if you only want the bare minimum. However to have full compatibility with arduino shields, and best user experience, you should purchase all required components.
@@ -31,6 +32,7 @@ See the Arduineigh Bill of Materials file for a list of all components for a ful
 Don't know how to solder? Never soldered surface mount components? No Problem!
 After an exhausting 5 minutes of searching, I have found "the best" video tutorial on soldering passive components and more complex IC's. This teaches the same methods that I use to hand solder these types of things.
 [EEVblog #997 - How To Solder Surface Mount Components](https://www.youtube.com/watch?v=hoLf8gvvXXU)
+
 
 ## Programming Your Arduineigh
 So you've built the thing, now it's time to make it do the things... 
@@ -52,6 +54,7 @@ To make sure everything is working as intended, you should first upload the Blin
 Start by going to File > Examples > 1.Basic > Blink, then click the Upload arrow. It should upload succussfully and the second LED on the board should start to flash (if your board was purchased at BronyCon 2017, you do not have this second LED and will have to add a resistor and LED in series from pin 13 to GND).
 
 If the LED is blinking, then congratulations! You have successfully built your very own Arduineigh!
+
 
 ## Everything Is On Fire (Issues and how to fix them)
 Shit happens, things break, everything is fine....
@@ -105,3 +108,14 @@ Shit happens, things break, everything is fine....
     - Sorry but you can't. Whether the component was soldered on wrong, was faulty from the start, or you connected something you shouldn't have, that component is gone and ain't coming back. Remove the damaged part from the board and replace it.
     - Important note: If you smoked one component, it's very possible you killed others too. It may be smart to have spares on hand just in case.
    
+
+## Frequently Asked Questions 
+
+#### Where can I buy an Arduineigh?
+As of this moment, you can only purchase one at select My Little Pony conventions such as BronyCon and Nightmare Nights Dallas. However, they will soon be available online from PhoenixbornTech. 
+
+#### How can I get updates on this and future projects? 
+Follow me on twitter (@YMIsticky) and PhoenixbornTech (@Phoenixborntech) to keep up with cool new projects. 
+
+#### I have a cool project idea/request/commission!
+I'd love to hear about it! Send me a message on twitter (@YMIsticky) and we can discuss it!
